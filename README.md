@@ -1,8 +1,8 @@
-# socket-CN-LAB
+## socket-CN-LAB
 
-## Name : ZEESHAN QUAMAR
-## COMPUTER SCIENCE
-### MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY, BHOPAL
+### Name : ZEESHAN QUAMAR
+### COMPUTER SCIENCE
+#### MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY, BHOPAL
 
 -[x] My 6th semester Computer Neyworks Labs
 -[x] Study of basic networking commands on command
