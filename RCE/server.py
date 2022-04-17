@@ -1,3 +1,4 @@
+# IMPLEMENT REMOTE CODE EXECUTION  (COMMANDS)
 import socket
 
 server_add=('localhost',9999)
